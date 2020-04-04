@@ -1,5 +1,5 @@
 # libBUX
-[![Build Status](https://travis-ci.org/burningtree/libbux.svg?branch=master)](https://travis-ci.org/burningtree/libbux) [![Dependency Status](https://david-dm.org/burningtree/libbux.svg)](https://david-dm.org/burningtree/libbux)
+[![Build Status](https://travis-ci.org/shide1989/libbux.svg?branch=master)](https://travis-ci.org/shide1989/libbux) [![Dependency Status](https://david-dm.org/shide1989/libbux.svg)](https://david-dm.org/shide1989/libbux)
 
 Un-official Javascript/Node.js library for [BUX](http://getbux.com) trading platform. Let's rock the world of finance!
 
@@ -300,9 +300,6 @@ Available events:
   "templateId": "2"
 }
 ```
-
-## Related Projects
-* [bitbar-bux](https://github.com/burningtree/bitbar-bux) - BUX Plugin for BitBar, application for customizing OS X Menu Bar
 
 ## TODO
 * documentation

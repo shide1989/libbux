@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/burningtree/libbux.git"
+    "url": "git+https://github.com/shide1989/libbux.git"
   },
   "author": "Jan Stránský <jan.stransky@arnal.cz>",
   "license": "MIT",
@@ -18,20 +18,20 @@
     "market"
   ],
   "bugs": {
-    "url": "https://github.com/burningtree/libbux/issues"
+    "url": "https://github.com/shide1989/libbux/issues"
   },
-  "homepage": "https://github.com/burningtree/libbux#readme",
+  "homepage": "https://github.com/shide1989/libbux#readme",
   "devDependencies": {
-    "async": "^2.0.0-rc.6",
-    "chai": "^3.5.0",
-    "coffee-script": "^1.10.0",
-    "hapi": "^13.5.0",
-    "js-yaml": "^3.6.1",
-    "mocha": "^2.5.3"
+    "async": "^3.2.0",
+    "chai": "^4.2.0",
+    "coffee-script": "^1.12.7",
+    "hapi": "^18.1.0",
+    "js-yaml": "^3.13.1",
+    "mocha": "^7.1.1"
   },
   "dependencies": {
-    "debug": "^2.2.0",
-    "superagent": "^2.0.0",
-    "ws": "^1.1.1"
+    "debug": "^4.1.1",
+    "superagent": "^5.2.2",
+    "ws": "^7.2.3"
   }
 }
